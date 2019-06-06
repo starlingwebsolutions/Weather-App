@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+  .location,
+  .temperature {
+    height: 40vh;
+    width: 100%;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
